@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nREactApp/static/css/main.dda45461.chunk.css",
+    "main.js": "/nREactApp/static/js/main.af4d8aba.chunk.js",
+    "main.js.map": "/nREactApp/static/js/main.af4d8aba.chunk.js.map",
+    "runtime-main.js": "/nREactApp/static/js/runtime-main.29844be7.js",
+    "runtime-main.js.map": "/nREactApp/static/js/runtime-main.29844be7.js.map",
+    "static/css/2.d4505b34.chunk.css": "/nREactApp/static/css/2.d4505b34.chunk.css",
+    "static/js/2.cb86c816.chunk.js": "/nREactApp/static/js/2.cb86c816.chunk.js",
+    "static/js/2.cb86c816.chunk.js.map": "/nREactApp/static/js/2.cb86c816.chunk.js.map",
+    "index.html": "/nREactApp/index.html",
+    "static/css/2.d4505b34.chunk.css.map": "/nREactApp/static/css/2.d4505b34.chunk.css.map",
+    "static/css/main.dda45461.chunk.css.map": "/nREactApp/static/css/main.dda45461.chunk.css.map",
+    "static/js/2.cb86c816.chunk.js.LICENSE.txt": "/nREactApp/static/js/2.cb86c816.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/nREactApp/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29844be7.js",
+    "static/css/2.d4505b34.chunk.css",
+    "static/js/2.cb86c816.chunk.js",
+    "static/css/main.dda45461.chunk.css",
+    "static/js/main.af4d8aba.chunk.js"
+  ]
+}
